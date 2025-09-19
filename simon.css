@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.btn{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    border: 5px solid black;
+    margin: 20px;
+}
+
+.game-box{
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.green{
+    background-color: #63aac0;
+}
+
+.blue{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
+}
